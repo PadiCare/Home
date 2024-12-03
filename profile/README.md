@@ -14,7 +14,7 @@
 
 Padi Care is an innovative AI-powered application designed to assist farmers in diagnosing and managing rice crop diseases. By leveraging advanced machine learning models, utilizing google cloud, maximizing on mobile development, Padi Care provides accurate, fast, and reliable identification of common rice diseases using image-based analysis. The application empowers users to take proactive measures to maintain healthy crops and maximize yield potential.
 
-## MozArt App Download
+## PadiCare App Download
 ![Padicare](https://github.com/user-attachments/assets/e74eebe8-23e4-4085-9d64-69b4806d1037)
 
 Click on the image to download the PadiaCare APK.
