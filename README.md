@@ -59,9 +59,9 @@ Click on the image to download the PadiaCare APK.
   - Download the .apk file from Drive [![padiCare]
   - Install the app and enjoy the scanning
  
-# MozArt App Features
+# PadiCare App Features
 
-1. **Scan Artifacts**
+1. **Scan Padi**
    - The app features a built-in scanner using CameraX to identify and display names of scanned items within the......???
   
 ## Repository Branches
