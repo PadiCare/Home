@@ -30,6 +30,12 @@ Click on the image to download the PadiaCare APK.
   - Pycharm
   - TensorFlow
   - Google Colab
+  - Tensorflow
+  - Keras
+  - Matplotlib
+  - Numpy
+  - Pandas
+  - Seaborn
     
 - **Mobile Development:**
   - Figma
