@@ -10,19 +10,20 @@
 | Juan Christian | A242B4KY2106 | Mobile Devlopment | Universitas Kristen Krida Wancana | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-christian-653ab4278/)
 
 ## PadiCare
-![Padicare](https://github.com/user-attachments/assets/846953f5-32dd-42e1-8eaf-964a384b2bc3)
-
+<p align="center">
+  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="MozArt Logo" width="450" height="400">
 Padi Care is an innovative AI-powered application designed to assist farmers in diagnosing and managing rice crop diseases. By leveraging advanced machine learning models, utilizing google cloud, maximizing on mobile development, Padi Care provides accurate, fast, and reliable identification of common rice diseases using image-based analysis. The application empowers users to take proactive measures to maintain healthy crops and maximize yield potential.
+</p>
 
 ## PadiCare App Download
-![Padicare](https://github.com/user-attachments/assets/e74eebe8-23e4-4085-9d64-69b4806d1037)
-
+<p align="center">
+  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="MozArt Logo" width="450" height="400">
 Click on the image to download the PadiaCare APK.
 
 
 ## About Project
-![Padicare](https://github.com/user-attachments/assets/e5456c26-26dc-43ef-8b87-eedb2f528af0)
-
+<p align="center">
+  <img src="https://github.com/PadiCare/.github/blob/main/Padicare.jpeg" alt="MozArt Logo" width="450" height="400">
 
 ## Built with
 
