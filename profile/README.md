@@ -12,7 +12,7 @@
 ## PadiCare
 ![Padicare](https://github.com/user-attachments/assets/846953f5-32dd-42e1-8eaf-964a384b2bc3)
 
-Jelasin apa itu APK PadiCare
+Padi Care is an innovative AI-powered application designed to assist farmers in diagnosing and managing rice crop diseases. By leveraging advanced machine learning models, utilizing google cloud, maximizing on mobile development, Padi Care provides accurate, fast, and reliable identification of common rice diseases using image-based analysis. The application empowers users to take proactive measures to maintain healthy crops and maximize yield potential.
 
 ## MozArt App Download
 ![Padicare](https://github.com/user-attachments/assets/e74eebe8-23e4-4085-9d64-69b4806d1037)
@@ -30,7 +30,6 @@ Click on the image to download the PadiaCare APK.
   - Pycharm
   - TensorFlow
   - Google Colab
-  - ??????
     
 - **Mobile Development:**
   - Figma
@@ -64,9 +63,12 @@ Click on the image to download the PadiaCare APK.
 1. **Scan Padi**
    - The app features a built-in scanner using CameraX to identify and display names of scanned items within the......???
   
-## Repository Branches
+## Part of Repository
 
-In our project is divided into four branches:
+In our project is divided into 2 types, this one for the core repository:
   - [Machine Learning](https://github.com/PadiCare/MachineLearning_Model)
   - [Cloud Computing](https://github.com/PadiCare/main-backend-api)
   - [Mobile Development](??????)
+
+For the other repository, it can be view here:
+  - [Machine Learning Backend](https://github.com/PadiCare/ml-backend)
