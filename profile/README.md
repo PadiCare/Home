@@ -46,7 +46,7 @@ Click on the image to download the PadiaCare APK.
   - Figma
   - Android Studio
   - Kotlin
-  - ?????
+  - Retrofit
 
 - **Cloud Computing:**
   - Google Cloud Run
